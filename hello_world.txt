@@ -1,0 +1,1 @@
+This is just some text I added at the request of The Odin Project's main curriculum. It doesn't have much use beyond following those instructions.
